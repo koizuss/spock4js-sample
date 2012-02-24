@@ -1,0 +1,1 @@
+/** * sample function * @return {String} greet * @param name {String} your name */function greet(name){    return 'Hello!! ' + name;}function twoArgs(one, two){    return one + two;}
